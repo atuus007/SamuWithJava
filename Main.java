@@ -1,9 +1,11 @@
 /*
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
- * @file main.hpp
- * @author  Norbert Bátfai <nbatfai@gmail.com>
+ * @file Main.java
+ * @author  Fodor Attila <fodor.attila14@gmail.com>
  * @version 0.0.1
+ * Java Version of the original C++ code, made by Fodor Attila
+ * 
  *
  * @section LICENSE
  *
